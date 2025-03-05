@@ -64,9 +64,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Badges
 
-![GitHub repo size](https://github.com/lunahoushmand16/EmployeeTracker-Cli-App)
-![GitHub contributors](https://img.shields.io/githubcontributorslunahoushmand16EmployeeTracker-Cli-App)
-![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/EmployeeTracker-Cli-App)
+![GitHub repo size](https://img.shields.io/github/repo-size/lunahoushmand16/EmployeeTracker-Cli-App)
+![GitHub contributors](https://img.shields.io/github/contributors/lunahoushmand16/EmployeeTracker-Cli-App)
+![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/DevPro-Readme-Generator?style=social)
 
 ## Features
 
