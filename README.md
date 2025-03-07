@@ -81,8 +81,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ### Screenshots:
 
-![Database schema Design](./assets/DatabaseSchema-Design.png)
-![Example application being used](./assets/application-used.png)
+![Database schema Design](./Develop/assets/DatabaseSchema-Design.png)
+![Example application being used](./Develop/assets/application-used.png)
 
 ## Credits
 
