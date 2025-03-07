@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Developers frequently need to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). This project is a command-line application that manages a company's employee database using Node.js, Inquirer, and PostgreSQL. While traditional CMS platforms often have graphical interfaces, this CLI-based CMS enables efficient interaction with employee records through structured prompts, allowing users to add, update, and retrieve employee data seamlessly.",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
