@@ -1,0 +1,38 @@
+{
+  "name": "employeetracker-cli-app",
+  "version": "1.0.0",
+  "description": "Developers frequently need to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). This project is a command-line application that manages a company's employee database using Node.js, Inquirer, and PostgreSQL. While traditional CMS platforms often have graphical interfaces, this CLI-based CMS enables efficient interaction with employee records through structured prompts, allowing users to add, update, and retrieve employee data seamlessly.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/server.js",
+    "dev": "ts-node src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunahoushmand16/EmployeeTracker-Cli-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunahoushmand16/EmployeeTracker-Cli-App/issues"
+  },
+  "homepage": "https://github.com/lunahoushmand16/EmployeeTracker-Cli-App#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "inquirer": "^12.4.2",
+    "pg": "^8.13.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.9",
+    "@types/pg": "^8.11.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
